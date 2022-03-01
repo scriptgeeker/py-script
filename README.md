@@ -4,7 +4,7 @@
 ### 文章下载器
 
 - [get_article/huxiu.py][1] 虎嗅网（huxiu.com）
-- [get_article/weixin.py][2] 微信订阅号（weixin.sogou.com）
+- [get_article/weixin.py][2] 微信（weixin.sogou.com）
 - [get_article/zhihu.py][3] 知乎（zhihu.com）
 
 ### 运维小工具
@@ -13,7 +13,7 @@
 
 ### 调用命令行
 
-- [cli_helper/mysqldump.py][5] MySQL 数据库导入&导出脚本
+- [cli_helper/mysqldump.py][5] 数据库导入&导出脚本（MySQL）
 
 
   [1]: https://github.com/scriptgeeker/py-script/blob/main/get_article/huxiu.py
