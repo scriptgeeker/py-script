@@ -14,6 +14,8 @@
 ### 调用命令行
 
 - [cli_helper/mysqldump.py][5] 数据库导入&导出脚本（MySQL）
+- [cli_helper/3to2tool.py][6] Python脚本版本转换（3to2）
+
 
 
   [1]: https://github.com/scriptgeeker/py-script/blob/main/get_article/huxiu.py
@@ -21,5 +23,6 @@
   [3]: https://github.com/scriptgeeker/py-script/blob/main/get_article/zhihu.py
   [4]: https://github.com/scriptgeeker/py-script/blob/main/sys_devops/filecount.py
   [5]: https://github.com/scriptgeeker/py-script/blob/main/cli_helper/mysqldump.py
+  [6]: https://github.com/scriptgeeker/py-script/blob/main/cli_helper/3to2tool.py
 
 
